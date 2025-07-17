@@ -422,3 +422,13 @@ body {
     font-size: 3rem;
   }
 }
+
+.logo {
+  width: 50px;          /* Adjust logo size */
+  height: auto;         /* Maintains aspect ratio */
+}
+
+.site-title {
+  margin: 0;            /* Removes default margin */
+  font-size: 1.5rem;    /* Adjust title size */
+}
